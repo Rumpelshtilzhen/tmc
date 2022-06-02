@@ -4,7 +4,7 @@ BX24.init(function() {
 	//BX24.installFinish();
 	var props = {
 		PLACEMENT	: 'CRM_DEAL_DETAIL_TAB',
-		HANDLER		: '.../tmc/index.php'
+		HANDLER		: 'https://rumpelshtilzhen.github.io/tmc/index.php'
 	};
 	var bindPlacement = function() {
 		BX24.callMethod(
